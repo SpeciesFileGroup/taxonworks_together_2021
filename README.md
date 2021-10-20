@@ -1,4 +1,4 @@
-# taxonworks_together_2021
+# TaxonWorks Together 2021
 
 Details coming early November.
 
