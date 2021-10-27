@@ -4,7 +4,7 @@ Details coming early November.
 
 Sessions daily, December 6th-10th, on Zoom.
 
-Getting here early?  Add an issue here detailing what you hope to get out of TaxonWorks Together this year.
+Getting here early?  Add [an issue or idea for TWTogether 2021](https://github.com/SpeciesFileGroup/taxonworks_together_2021/issues). Questions?  Chat now on [![Gitter][3]][2]
 
 ### Table of Contents
 [What](https://github.com/SpeciesFileGroup/taxonworks_together_2021#what) -- [Who](https://github.com/SpeciesFileGroup/taxonworks_together_2021#who) -- [How](https://github.com/SpeciesFileGroup/taxonworks_together_2020#how) -- [Events](https://github.com/SpeciesFileGroup/taxonworks_together_2021#events)  
