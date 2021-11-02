@@ -6,6 +6,41 @@ Getting here early? Add [an issue or idea for TWTogether 2021](https://github.co
 
 [Register Now!](https://forms.gle/dKxc6Qm5QSqhZjnS6) You'll be emailed Zoom link(s) prior to the events.
 
+## Agenda
+
+| CDT           | UTC         | *Session*                                                               |
+|---------------|-------------|-------------------------------------------------------------------------|
+| *Monday*      |             |                                                                         |
+| 1000 -   1015 | 1600 - 1615 | [Welcome, Origins Introduction, and Logistics](https://github.com/SpeciesFileGroup/taxonworks_together_2021#welcome-origins-introduction-and-logistics)                           |
+| 1015 -   1115 | 1615 - 1715 | [User Perspectives on TaxonWorks](https://github.com/SpeciesFileGroup/taxonworks_together_2021#user-perspectives-on-taxonworks)                                         |
+| 1115 -   1145 | 1715 - 1745 | Break                                                                   |
+| 1145 -   1245 | 1745 - 1845 | User Perspectives on TaxonWorks Part 2                                  |
+| 1245 -   1300 | 1845 - 1900 | Recap                                                                   |
+| *Tuesday*     |             |                                                                         |
+| 1000 -   1015 | 1600 - 1615 | Introduction to Building a Community Around Your Taxonomic Needs        |
+| 1015 -   1115 | 1615 - 1715 | [Building a Community Around Your Taxonomic Needs](https://github.com/SpeciesFileGroup/taxonworks_together_2021#building-a-community-around-your-taxonomic-needs) _Moderated Discussion_ |
+| 1115 -   1145 | 1715 - 1745 | Break                                                                   |
+| 1145 -   1245 | 1745 - 1845 | Building a Community Around Your Taxonomic Needs _A Summary View_     |
+| 1245 -   1300 | 1845 - 1900 | Recap                                                                   |
+| 1500 -   1530 | 2100 - 2130 | [Spotlight on Nomenclatural Data](https://github.com/SpeciesFileGroup/taxonworks_together_2021#spotlight-on-nomenclatural-data)                                         |
+| 1530 -   1550 | 2130 - 2150 | Break                                                                   |
+| 1550 -   1700 | 2150 - 2300 | [Nomenclature Discussion/QA](https://github.com/SpeciesFileGroup/taxonworks_together_2021#nomenclature-discussion-qa)                                            |
+| *Wednesday*   |             |                                                                         |
+| 1000 -   1030 | 1600 - 1630 | [TaxonWorks, Origins, Milestones, and What’s Next](https://github.com/SpeciesFileGroup/taxonworks_together_2021#taxonworks-origins-milestones-and-whats-next)                       |
+| 1030 -   1100 | 1630 - 1700 | Break                                                                   |
+| 1100 -   1300 | 1700 - 1900 | [BBQ Time - You Drive the Development of TaxonWorks Software](https://github.com/SpeciesFileGroup/taxonworks_together_2021#bbq-time-you-drive-the-developmment-of-taxonworks-software)            |
+|               |             | Break                                                                   |
+| 1500 -   1700 | 2100 - 2300 | [Discover Matrices in TaxonWorks](https://github.com/SpeciesFileGroup/taxonworks_together_2021#discover-matrices-in-taxonworks)                                        |
+|               |             | Break                                                                   |
+| 1900 -   2100 | 100 - 300   | [TaxonWorks LateNite](https://github.com/SpeciesFileGroup/taxonworks_together_2021#taxonworks-latenite)                                                   |
+| *Thursday*    |             |                                                                         |
+| 830 -   1000  | 1430 - 1600 | [Focus on Digitization in TaxonWorks](https://github.com/SpeciesFileGroup/taxonworks_together_2021#focus-on-digitization-in-taxonworks)                                    |
+| 1000 -   1030 | 1600 - 1630 | Break                                                                   |
+| 1030 -   1215 | 1630 - 1815 | [Bring Your Data - Try the new DwC Importer](https://github.com/SpeciesFileGroup/taxonworks_together_2021#bring-your-data--try-the-new-dwc-importer)                               |
+| 1215 -   1230 | 1815 - 1830 | Recap                                                                   |
+| *Friday*      |             |                                                                         |
+| 1000 -   1300 | 1600 - 1900 | [It’s Developer Time](https://github.com/SpeciesFileGroup/taxonworks_together_2021#its-developer-time)                                                   |
+
 ### Table of Contents
 [What](https://github.com/SpeciesFileGroup/taxonworks_together_2021#what) -- [Who](https://github.com/SpeciesFileGroup/taxonworks_together_2021#who) -- [How](https://github.com/SpeciesFileGroup/taxonworks_together_2020#how) -- [Events](https://github.com/SpeciesFileGroup/taxonworks_together_2021#events)  
 
