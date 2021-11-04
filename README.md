@@ -1,7 +1,6 @@
 # TaxonWorks Together 2021
 
-Sessions daily, December 6th-10th, on Zoom.
-
+Sessions daily, December 6th-10th, on Zoom.  
 Getting here early? Add [an issue or idea for TWTogether 2021](https://github.com/SpeciesFileGroup/taxonworks_together_2021/issues). Questions? Chat now on [![Gitter][3]][2]
 
 [Register Now!](https://forms.gle/dKxc6Qm5QSqhZjnS6) You'll be emailed Zoom link(s) prior to the events.
@@ -16,8 +15,9 @@ Taxonomists, ecologists, curators, collection managers, software developers, bio
 # How
 1) Get a [Github account](https://github.com) (not required, but recommended), an account will help you better participate in many aspects of the community.
 2) [Register and select events of interest](https://forms.gle/dKxc6Qm5QSqhZjnS6). You'll be emailed Zoom link(s) prior/during the events.
-3) If you want to hack TaxonWorks itself, start reading [install_taxonworks](https://github.com/SpeciesFileGroup/install_taxonworks/blob/master/development/README.md) and plan on attending the "It's Developer Time" session. 
+3) **TaxonWorks is ready-to-use, no software installation needed.**
 4) [Post ideas, requests, questions to be tackled during the week](https://github.com/SpeciesFileGroup/taxonworks_together_2021/issues)
+5) If you are software developer and you want to hack TaxonWorks itself, please start reading [install_taxonworks](https://github.com/SpeciesFileGroup/install_taxonworks/blob/master/development/README.md) and plan on attending the "It's Developer Time" session. 
 
 _Scheduled events are subject to minor changes_.  All events will have question / answer / discussion time.
 
@@ -39,11 +39,11 @@ _Scheduled events are subject to minor changes_.  All events will have question 
 | 1245 -   1300 | 1845 - 1900 | Recap                                                                   |
 | 1500 -   1530 | 2100 - 2130 | [Spotlight on Nomenclatural Data](https://github.com/SpeciesFileGroup/taxonworks_together_2021#spotlight-on-nomenclatural-data)                                         |
 | 1530 -   1550 | 2130 - 2150 | Break                                                                   |
-| 1550 -   1700 | 2150 - 2300 | [Nomenclature Discussion/QA](https://github.com/SpeciesFileGroup/taxonworks_together_2021#nomenclature-discussion-qa)                                            |
+| 1550 -   1700 | 2150 - 2300 | [Nomenclature Discussion QA](https://github.com/SpeciesFileGroup/taxonworks_together_2021#nomenclature-discussion-qa)                                            |
 | **[Wednesday](https://github.com/SpeciesFileGroup/taxonworks_together_2021#wednesday)**   |             |                                                                         |
 | 1000 -   1030 | 1600 - 1630 | [TaxonWorks, Origins, Milestones, and What’s Next](https://github.com/SpeciesFileGroup/taxonworks_together_2021#taxonworks-origins-milestones-and-whats-next)                       |
 | 1030 -   1100 | 1630 - 1700 | Break                                                                   |
-| 1100 -   1300 | 1700 - 1900 | [BBQ Time - You Drive the Development of TaxonWorks Software](https://github.com/SpeciesFileGroup/taxonworks_together_2021#bbq-time-you-drive-the-developmment-of-taxonworks-software)            |
+| 1100 -   1300 | 1700 - 1900 | [BBQ Time - You Drive the Development of TaxonWorks Software](https://github.com/SpeciesFileGroup/taxonworks_together_2021#bbq-time---you-drive-the-developmment-of-taxonworks-software)            |
 |               |             | Break                                                                   |
 | 1500 -   1700 | 2100 - 2300 | [Discover Matrices in TaxonWorks](https://github.com/SpeciesFileGroup/taxonworks_together_2021#discover-matrices-in-taxonworks)                                        |
 |               |             | Break                                                                   |
@@ -51,7 +51,7 @@ _Scheduled events are subject to minor changes_.  All events will have question 
 | **[Thursday](https://github.com/SpeciesFileGroup/taxonworks_together_2021#thursday)**    |             |                                                                         |
 | 830 -   1000  | 1430 - 1600 | [Focus on Digitization in TaxonWorks](https://github.com/SpeciesFileGroup/taxonworks_together_2021#focus-on-digitization-in-taxonworks)                                    |
 | 1000 -   1030 | 1600 - 1630 | Break                                                                   |
-| 1030 -   1215 | 1630 - 1815 | [Bring Your Data - Try the new DwC Importer](https://github.com/SpeciesFileGroup/taxonworks_together_2021#bring-your-data--try-the-new-dwc-importer)                               |
+| 1030 -   1215 | 1630 - 1815 | [Explore the New DwC Importer](https://github.com/SpeciesFileGroup/taxonworks_together_2021#explore-the-new-dwc-importer)                               |
 | 1215 -   1230 | 1815 - 1830 | Recap                                                                   |
 | **[Friday](https://github.com/SpeciesFileGroup/taxonworks_together_2021#friday)**      |             |                                                                         |
 | 1000 -   1300 | 1600 - 1900 | [It’s Developer Time](https://github.com/SpeciesFileGroup/taxonworks_together_2021#its-developer-time)                                                   |
@@ -71,14 +71,14 @@ Today's session, this week
 ### Building a Community Around Your Taxonomic Needs
 So you need to do something? Are you a Taxonomist describing a species? An Ecologist making a material-examined section? A Collaboration building a nomenclatural authority? Come discuss what you need to do, and have the TW community give you feedback on how that intersects with TaxonWorks.
 
-Your turn to ask questions of our speakers, and add your insights and expertise into the world of what taxonomists need, from software, from community, and from each other.
+A moderated discussion session, designed so that you can and add your insights and expertise into the world of what taxonomists, ecologists, collection managers, and you need, from the software, from community, and each other.
 
 ### Recap and what’s next
 ---
 ### Spotlight on Nomenclatural Data
 Join Dmitry Dmitriev to discover building, managing, and using nomenclatural resources and tools in TaxonWorks. See Exporting: CoLDP, CSV, DwC
 
-### Nomenclature Discussion/QA
+### Nomenclature Discussion QA
 You and invited speakers share their experiences using TaxonWorks to manage nomenclature.
 
 ## Wednesday 
@@ -94,14 +94,14 @@ Using “versioning” software like GitHub, we democratize software development
 So many characters, see how the tools in TaxonWorks support the taxonomist and systematist’s workflows. Invited presenters share how these matrices tools support their research. Join us to learn from them and add your insights.
 ### TaxonWorks LateNite  
 
-Well, late for those of us in CST, but for you, we look forward to an international audience from many time zones. In this informal session, there will be time to chat about TaxonWorks, but also any topics you bring with you.  
+Well, late for those of us in CST, but for you, we look forward to an international group from many time zones. In this informal session, there will be time to chat about TaxonWorks, but also any topics you bring with you to the open table.  
 
 ## Thursday  
 ### Focus on Digitization in TaxonWorks
-Let’s start with getting data in and getting digitized data out of TaxonWorks. Then we’ll find out more about working with slides and images in TaxonWorks. With these pieces in mind, we’ll step into the world of Comprehensive Digitization. (Part video potentially). We'll focus on management highlights such as staged images, the new image task; using the comprehensive task; creating labels in TW, new collecting events, and of course, getting data in and out of TW.
+Let’s start with getting data in and getting digitized data out of TaxonWorks. Then we’ll find out more about working with slides and images in TaxonWorks. With these pieces in mind, we’ll step into the world of Comprehensive Digitization. (Please watch pre-meeting videos, watch this space). We'll focus on management highlights such as staged images, the new image task; using the comprehensive task; creating labels in TW, new collecting events, and of course, getting data in and out of TW.
 
-### Bring Your Data - Try the new DwC Importer
-Your opportunity to try the new DwC Importer. Bring your DwC-A file or get a file from (eg. gbif ...) or from us. You'll submit a github ticket and learn to add to the issue tracker and get a sandbox account. What has to happen to get data into TW? Join us to learn.
+### Explore the New DwC Importer
+Your opportunity to see the new DwC Importer. See what features are different. You'll submit a github ticket and learn to add to the issue tracker and get a sandbox account. What has to happen to get data into TW? Join us to learn.
 
 ### Recap  
 Thank you all for attending, and what’s next
@@ -110,7 +110,7 @@ Thank you all for attending, and what’s next
 ### It’s Developer Time
 Could be coffee, could be tea, but in unconference style, all the discussion and activities stay focused on topics such as installing TW, the TW data model, the API, and perhaps some work to link the TW API, or developing a requested Page feature.
 
-Some possible topics of interest include: USB booting with TW,  work to make stuff faster, import/export.  data visualization, new API features
+Some possible topics of interest include: USB booting with TW, work to make stuff faster, import/export, data visualization, and new API features
 
 ### Wrap-up Recap
 ---
