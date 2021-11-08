@@ -1,4 +1,5 @@
 # TaxonWorks Together 2021
+![taxonworks_logo-full](https://user-images.githubusercontent.com/2990155/140569189-ff3a153a-e59a-49ff-9825-ebc5a44a1118.png)
 
 Sessions daily, December 6th-10th, on Zoom.  
 Getting here early? Add [an issue or idea for TWTogether 2021](https://github.com/SpeciesFileGroup/taxonworks_together_2021/issues). Questions? Chat now on [![Gitter][3]][2]
@@ -13,11 +14,14 @@ It's 2021, and time for our 2nd TaxonWorks Together event (6 - 10 December 2021)
 Taxonomists, ecologists, curators, collection managers, software developers, biodiversity information scientists. If you have questions about TaxonWorks this is the week to ask them. Whether you are very familiar with TaxonWorks or new to our community, all are welcome.
 
 # How
-1) Get a [Github account](https://github.com) (not required, but recommended), an account will help you better participate in many aspects of the community.
-2) [Register and select events of interest](https://forms.gle/dKxc6Qm5QSqhZjnS6). You'll be emailed Zoom link(s) prior/during the events.
-3) **TaxonWorks is ready-to-use, no software installation needed.**
-4) [Post ideas, requests, questions to be tackled during the week](https://github.com/SpeciesFileGroup/taxonworks_together_2021/issues)
-5) If you are software developer and you want to hack TaxonWorks itself, please start reading [install_taxonworks](https://github.com/SpeciesFileGroup/install_taxonworks/blob/master/development/README.md) and plan on attending the "It's Developer Time" session. 
+
+Before the event steps
+1. [Register and select events of interest](https://forms.gle/dKxc6Qm5QSqhZjnS6). You'll be emailed Zoom link(s) prior to/during the events.
+2. **Get a TaxonWorks account** to discover TaxonWorks now -- it's **ready-to-use, no software installation needed.** Send email to dlpaul AT illinois DOT edu
+3. Get a [Github account](https://github.com) (not required, but recommended), an account will help you better participate in many aspects of the community.
+4. New to TaxonWorks? Learn about TaxonWorks features and functions via the [TaxonWorks YouTube videos](https://www.youtube.com/channel/UCKNr7QYwvVFcRfQAcMEAhLw)
+5. [Post ideas, requests, questions](https://github.com/SpeciesFileGroup/taxonworks_together_2021/issues) to be tackled during the week
+6. If you are software developer and you want to hack TaxonWorks itself, please start reading [install_taxonworks](https://github.com/SpeciesFileGroup/install_taxonworks/blob/master/development/README.md) and plan on attending the "It's Developer Time" session. 
 
 _Scheduled events are subject to minor changes_.  All events will have question / answer / discussion time.
 
@@ -25,7 +29,7 @@ _Scheduled events are subject to minor changes_.  All events will have question 
 
 | CST           | UTC         | *Session*                                                               |
 |:---------------|:-------------|-------------------------------------------------------------------------|
-| **[Monday](https://github.com/SpeciesFileGroup/taxonworks_together_2021#monday)**      |             |                                                                         |
+| **[Monday](https://github.com/SpeciesFileGroup/taxonworks_together_2021#monday)**      |             | <img src="https://user-images.githubusercontent.com/2990155/140569189-ff3a153a-e59a-49ff-9825-ebc5a44a1118.png" width="150" />                                                                        |
 | 1000 -   1015 | 1600 - 1615 | [Welcome, Origins Introduction, and Logistics](https://github.com/SpeciesFileGroup/taxonworks_together_2021#welcome-origins-introduction-and-logistics)                           |
 | 1015 -   1115 | 1615 - 1715 | [User Perspectives on TaxonWorks](https://github.com/SpeciesFileGroup/taxonworks_together_2021#user-perspectives-on-taxonworks)                                         |
 | 1115 -   1145 | 1715 - 1745 | Break                                                                   |
@@ -99,6 +103,8 @@ Well, late for those of us in CST, but for you, we look forward to an internatio
 ## Thursday  
 ### Focus on Digitization in TaxonWorks
 Let’s start with getting data in and getting digitized data out of TaxonWorks. Then we’ll find out more about working with slides and images in TaxonWorks. With these pieces in mind, we’ll step into the world of Comprehensive Digitization. (Please watch pre-meeting videos, watch this space). We'll focus on management highlights such as staged images, the new image task; using the comprehensive task; creating labels in TW, new collecting events, and of course, getting data in and out of TW.
+
+This is a great section for those new to TaxonWorks.
 
 ### Explore the New DwC Importer
 Your opportunity to see the new DwC Importer. See what features are different. You'll submit a github ticket and learn to add to the issue tracker and get a sandbox account. What has to happen to get data into TW? Join us to learn.
