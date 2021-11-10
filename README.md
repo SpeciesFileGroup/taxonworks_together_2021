@@ -73,9 +73,9 @@ Today's session, this week
 
 ## Tuesday  
 ### Building a Community Around Your Taxonomic Needs
-So you need to do something? Are you a Taxonomist describing a species? An Ecologist making a material-examined section? A Collaboration building a nomenclatural authority? Come discuss what you need to do, and have the TW community give you feedback on how that intersects with TaxonWorks.
+So you need to do something? Are you a Taxonomist describing a species? An Ecologist making a material-examined section? A Collaboration building a nomenclatural authority? A Curator? A Developer working with these data? Come discuss what you need to do, and have the TW community give you feedback on how that intersects with TaxonWorks.
 
-A moderated discussion session, designed so that you can and add your insights and expertise into the world of what taxonomists, ecologists, collection managers, and you need, from the software, from community, and each other.
+A moderated discussion session, designed so that you can and add your insights and expertise into the world of what taxonomists, ecologists, collection managers, developers, and you need, from the software, from community, and each other.
 
 ### Recap and what’s next
 ---
