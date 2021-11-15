@@ -22,43 +22,44 @@ Before the event steps
 4. New to TaxonWorks? Learn about TaxonWorks features and functions via the [TaxonWorks YouTube videos](https://www.youtube.com/channel/UCKNr7QYwvVFcRfQAcMEAhLw)
 5. [Post ideas, requests, questions](https://github.com/SpeciesFileGroup/taxonworks_together_2021/issues) to be tackled during the week
 6. If you are software developer and you want to hack TaxonWorks itself, please start reading [install_taxonworks](https://github.com/SpeciesFileGroup/install_taxonworks/blob/master/development/README.md) and plan on attending the "It's Developer Time" session. 
+7. **3 Minutes 1 Slide**: If you would like to present your insights or ideas on a given topic about TaxonWorks, let us know! We'll work it in or add to our post-TaxonWorks Together events. Send email to dlpaul AT illinois DOT edu
 
 _Scheduled events are subject to minor changes_.  All events will have question / answer / discussion time.
 
 ## Agenda
 
-| CST           | UTC         | *Session*                                                               |
-|:---------------|:-------------|-------------------------------------------------------------------------|
-| **[Monday](https://github.com/SpeciesFileGroup/taxonworks_together_2021#monday)**      |             | <img src="https://user-images.githubusercontent.com/2990155/140569189-ff3a153a-e59a-49ff-9825-ebc5a44a1118.png" width="150" />                                                                        |
-| 1000 -   1015 | 1600 - 1615 | [Welcome, Origins Introduction, and Logistics](https://github.com/SpeciesFileGroup/taxonworks_together_2021#welcome-origins-introduction-and-logistics)                           |
-| 1015 -   1115 | 1615 - 1715 | [User Perspectives on TaxonWorks](https://github.com/SpeciesFileGroup/taxonworks_together_2021#user-perspectives-on-taxonworks)                                         |
+| CST           | UTC         | *Session*                                                               | Speakers |
+|:---------------|:-------------|---------------------------------------------------------------|:--------------|
+| **[Monday](https://github.com/SpeciesFileGroup/taxonworks_together_2021#monday)**      |             | <img src="https://user-images.githubusercontent.com/2990155/140569189-ff3a153a-e59a-49ff-9825-ebc5a44a1118.png" width="150" />| |                                                                       |
+| 1000 -   1015 | 1600 - 1615 | [Welcome, Origins Introduction, and Logistics](https://github.com/SpeciesFileGroup/taxonworks_together_2021#welcome-origins-introduction-and-logistics) | Species File Group |
+| 1015 -   1115 | 1615 - 1715 | [User Perspectives on TaxonWorks](https://github.com/SpeciesFileGroup/taxonworks_together_2021#user-perspectives-on-taxonworks) | Chris Dietrich</br> Lily Hart</br> Heidi Hopkins</br> Kojun Kanda</br> Michelle Kohler</br> Maria Marta</br> Jim Woolley |                                        |
 | 1115 -   1145 | 1715 - 1745 | Break                                                                   |
-| 1145 -   1245 | 1745 - 1845 | User Perspectives on TaxonWorks Part 2                                  |
+| 1145 -   1245 | 1745 - 1845 | User Perspectives on TaxonWorks Part 2                                  | Panelists and You |
 | 1245 -   1300 | 1845 - 1900 | Recap                                                                   |
 | **[Tuesday](https://github.com/SpeciesFileGroup/taxonworks_together_2021#tuesday)**     |             |                                                                         |
-| 1000 -   1015 | 1600 - 1615 | Introduction to Building a Community Around Your Taxonomic Needs        |
-| 1015 -   1115 | 1615 - 1715 | [Building a Community Around Your Taxonomic Needs](https://github.com/SpeciesFileGroup/taxonworks_together_2021#building-a-community-around-your-taxonomic-needs) _Moderated Discussion_ |
+| 1000 -   1015 | 1600 - 1615 | Introduction to Building a Community Around Your Taxonomic Needs        | Species File Group |
+| 1015 -   1115 | 1615 - 1715 | [Building a Community Around Your Taxonomic Needs](https://github.com/SpeciesFileGroup/taxonworks_together_2021#building-a-community-around-your-taxonomic-needs) _Moderated Discussion_ | Beckett Sterner |
 | 1115 -   1145 | 1715 - 1745 | Break                                                                   |
 | 1145 -   1245 | 1745 - 1845 | Building a Community Around Your Taxonomic Needs _A Summary View_     |
 | 1245 -   1300 | 1845 - 1900 | Recap                                                                   |
-| 1500 -   1530 | 2100 - 2130 | [Spotlight on Nomenclatural Data](https://github.com/SpeciesFileGroup/taxonworks_together_2021#spotlight-on-nomenclatural-data)                                         |
+| 1500 -   1530 | 2100 - 2130 | [Spotlight on Nomenclatural Data](https://github.com/SpeciesFileGroup/taxonworks_together_2021#spotlight-on-nomenclatural-data) | Dmitry Dmitriev</br> James Woolley|
 | 1530 -   1550 | 2130 - 2150 | Break                                                                   |
 | 1550 -   1700 | 2150 - 2300 | [Nomenclature Discussion QA](https://github.com/SpeciesFileGroup/taxonworks_together_2021#nomenclature-discussion-qa)                                            |
 | **[Wednesday](https://github.com/SpeciesFileGroup/taxonworks_together_2021#wednesday)**   |             |                                                                         |
-| 1000 -   1030 | 1600 - 1630 | [TaxonWorks, Origins, Milestones, and What’s Next](https://github.com/SpeciesFileGroup/taxonworks_together_2021#taxonworks-origins-milestones-and-whats-next)                       |
+| 1000 -   1030 | 1600 - 1630 | [TaxonWorks, Origins, Milestones, and What’s Next](https://github.com/SpeciesFileGroup/taxonworks_together_2021#taxonworks-origins-milestones-and-whats-next)                       | Matt Yoder |
 | 1030 -   1100 | 1630 - 1700 | Break                                                                   |
-| 1100 -   1300 | 1700 - 1900 | [BBQ Time - You Drive the Development of TaxonWorks Software](https://github.com/SpeciesFileGroup/taxonworks_together_2021#bbq-time---you-drive-the-developmment-of-taxonworks-software)            |
+| 1100 -   1300 | 1700 - 1900 | [BBQ Time - You Drive the Development of TaxonWorks Software](https://github.com/SpeciesFileGroup/taxonworks_together_2021#bbq-time---you-drive-the-developmment-of-taxonworks-software)            | Deborah Paul</br> Matt Yoder</br> You |
 |               |             | Break                                                                   |
-| 1500 -   1700 | 2100 - 2300 | [Discover Matrices in TaxonWorks](https://github.com/SpeciesFileGroup/taxonworks_together_2021#discover-matrices-in-taxonworks)                                        |
+| 1500 -   1700 | 2100 - 2300 | [Discover Matrices in TaxonWorks](https://github.com/SpeciesFileGroup/taxonworks_together_2021#discover-matrices-in-taxonworks)| Dmitry Dmitriev</br> Sergei Tarasov</br> Kojun Kanda</br>|
 |               |             | Break                                                                   |
-| 1900 -   2100 | 100 - 300   | [TaxonWorks LateNite](https://github.com/SpeciesFileGroup/taxonworks_together_2021#taxonworks-latenite)                                                   |
+| 1900 -   2100 | 100 - 300   | [TaxonWorks LateNite](https://github.com/SpeciesFileGroup/taxonworks_together_2021#taxonworks-latenite) |Please join us!|                                                  |
 | **[Thursday](https://github.com/SpeciesFileGroup/taxonworks_together_2021#thursday)**    |             |                                                                         |
-| 830 -   1000  | 1430 - 1600 | [Focus on Digitization in TaxonWorks](https://github.com/SpeciesFileGroup/taxonworks_together_2021#focus-on-digitization-in-taxonworks)                                    |
+| 830 -   1000  | 1430 - 1600 | [Focus on Digitization in TaxonWorks](https://github.com/SpeciesFileGroup/taxonworks_together_2021#focus-on-digitization-in-taxonworks) | Tommy McElrath |
 | 1000 -   1030 | 1600 - 1630 | Break                                                                   |
-| 1030 -   1215 | 1630 - 1815 | [Explore the New DwC Importer](https://github.com/SpeciesFileGroup/taxonworks_together_2021#explore-the-new-dwc-importer)                               |
+| 1030 -   1215 | 1630 - 1815 | [Explore the New DwC Importer](https://github.com/SpeciesFileGroup/taxonworks_together_2021#explore-the-new-dwc-importer)                               | Species File Group|
 | 1215 -   1230 | 1815 - 1830 | Recap                                                                   |
 | **[Friday](https://github.com/SpeciesFileGroup/taxonworks_together_2021#friday)**      |             |                                                                         |
-| 1000 -   1300 | 1600 - 1900 | [It’s Developer Time](https://github.com/SpeciesFileGroup/taxonworks_together_2021#its-developer-time)                                                   |
+| 1000 -   1300 | 1600 - 1900 | [It’s Developer Time](https://github.com/SpeciesFileGroup/taxonworks_together_2021#its-developer-time)                                                   | Species File Group</br> You |
 
 ## Monday
 ### Welcome, Origins Introduction, and Logistics    
