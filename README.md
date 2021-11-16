@@ -23,6 +23,7 @@ Before the event steps
 5. [Post ideas, requests, questions](https://github.com/SpeciesFileGroup/taxonworks_together_2021/issues) to be tackled during the week
 6. If you are software developer and you want to hack TaxonWorks itself, please start reading [install_taxonworks](https://github.com/SpeciesFileGroup/install_taxonworks/blob/master/development/README.md) and plan on attending the "It's Developer Time" session. 
 7. **3 Minutes 1 Slide**: If you would like to present your insights or ideas on a given topic about TaxonWorks, let us know! We'll work it in or add to our post-TaxonWorks Together events. Send email to dlpaul AT illinois DOT edu
+8. [Notes doc](https://bit.ly/taxonworks2021) for TaxonWorks Together 2021 (https://bit.ly/taxonworks2021)
 
 _Scheduled events are subject to minor changes_.  All events will have question / answer / discussion time.
 
