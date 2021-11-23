@@ -33,7 +33,7 @@ _Scheduled events are subject to minor changes_.  All events will have question 
 |:-----------------|:---------------|---------------------------------------------------------------|:--------------|
 | **[Monday](https://github.com/SpeciesFileGroup/taxonworks_together_2021#monday)**      |             | <img src="https://user-images.githubusercontent.com/2990155/140569189-ff3a153a-e59a-49ff-9825-ebc5a44a1118.png" width="150" />| |                                                                       |
 | 1000 -   1015 | 1600 - 1615 | [Welcome, Origins Introduction, and Logistics](https://github.com/SpeciesFileGroup/taxonworks_together_2021#welcome-origins-introduction-and-logistics) | Species File Group |
-| 1015 -   1115 | 1615 - 1715 | [User Perspectives on TaxonWorks](https://github.com/SpeciesFileGroup/taxonworks_together_2021#user-perspectives-on-taxonworks) | Chris Dietrich</br> Lily Hart</br> Heidi Hopkins</br> Kojun Kanda</br> Michelle Kohler</br> Maria Marta</br> Jim Woolley |                                        |
+| 1015 -   1115 | 1615 - 1715 | [User Perspectives on TaxonWorks](https://github.com/SpeciesFileGroup/taxonworks_together_2021#user-perspectives-on-taxonworks) | Chris Dietrich</br> Lily Hart</br> John Heraty</br> Heidi Hopkins</br> Kojun Kanda</br> Michelle Kohler</br> Maria Marta</br> Jim Woolley |                                        |
 | 1115 -   1145 | 1715 - 1745 | Break                                                                   |
 | 1145 -   1245 | 1745 - 1845 | User Perspectives on TaxonWorks Part 2                                  | Panelists and You |
 | 1245 -   1300 | 1845 - 1900 | Recap                                                                   |
