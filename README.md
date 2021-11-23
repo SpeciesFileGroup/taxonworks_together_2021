@@ -47,9 +47,9 @@ _Scheduled events are subject to minor changes_.  All events will have question 
 | 1530 -   1550 | 2130 - 2150 | Break                                                                   |
 | 1550 -   1700 | 2150 - 2300 | [Nomenclature Discussion QA](https://github.com/SpeciesFileGroup/taxonworks_together_2021#nomenclature-discussion-qa)                                            |
 | **[Wednesday](https://github.com/SpeciesFileGroup/taxonworks_together_2021#wednesday)**   |             |                                                                         |
-| 1000 -   1030 | 1600 - 1630 | [TaxonWorks, Origins, Milestones, and What’s Next](https://github.com/SpeciesFileGroup/taxonworks_together_2021#taxonworks-origins-milestones-and-whats-next)                       | Matt Yoder |
-| 1030 -   1100 | 1630 - 1700 | Break                                                                   |
-| 1100 -   1300 | 1700 - 1900 | [BBQ Time - You Drive the Development of TaxonWorks Software](https://github.com/SpeciesFileGroup/taxonworks_together_2021#bbq-time---you-drive-the-developmment-of-taxonworks-software)            | Deborah Paul</br> Matt Yoder</br> You |
+| 1000 -   1045 | 1600 - 1645 | [TaxonWorks, Origins, Milestones, and What’s Next](https://github.com/SpeciesFileGroup/taxonworks_together_2021#taxonworks-origins-milestones-and-whats-next)                       | Matt Yoder |
+| 1045 -   1115 | 1645 - 1715 | Break                                                                   |
+| 1115 -   1300 | 1715 - 1900 | [BBQ Time - You Drive the Development of TaxonWorks Software](https://github.com/SpeciesFileGroup/taxonworks_together_2021#bbq-time---you-drive-the-developmment-of-taxonworks-software)            | Deborah Paul</br> Matt Yoder</br> You |
 |               |             | Break                                                                   |
 | 1500 -   1700 | 2100 - 2300 | [Discover Matrices in TaxonWorks](https://github.com/SpeciesFileGroup/taxonworks_together_2021#discover-matrices-in-taxonworks)| Dmitry Dmitriev</br> Sergei Tarasov</br> Kojun Kanda</br>|
 |               |             | Break                                                                   |
