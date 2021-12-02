@@ -49,7 +49,7 @@ _Scheduled events are subject to minor changes_.  All events will have question 
 | **[Wednesday](https://github.com/SpeciesFileGroup/taxonworks_together_2021#wednesday)**   |             |                                                                         |
 | 1000 -   1045 | 1600 - 1645 | [TaxonWorks, Origins, Milestones, and What’s Next](https://github.com/SpeciesFileGroup/taxonworks_together_2021#taxonworks-origins-milestones-and-whats-next)                       | Matt Yoder |
 | 1045 -   1115 | 1645 - 1715 | Break                                                                   |
-| 1115 -   1300 | 1715 - 1900 | [BBQ Time - You Drive the Development of TaxonWorks Software](https://github.com/SpeciesFileGroup/taxonworks_together_2021#bbq-time---you-drive-the-developmment-of-taxonworks-software)            | Deborah Paul</br> Matt Yoder</br> You |
+| 1115 -   1300 | 1715 - 1900 | [BBQ Time - You Drive the Development of TaxonWorks Software](https://github.com/SpeciesFileGroup/taxonworks_together_2021#bbq-time---you-drive-the-developmment-of-taxonworks-software)            | Deborah Paul</br> Matt Yoder</br> Tommy McElrath</br> You |
 |               |             | Break                                                                   |
 | 1500 -   1700 | 2100 - 2300 | [Discover Matrices in TaxonWorks](https://github.com/SpeciesFileGroup/taxonworks_together_2021#discover-matrices-in-taxonworks)| Dmitry Dmitriev</br> Sergei Tarasov</br> Kojun Kanda</br>|
 |               |             | Break                                                                   |
@@ -104,7 +104,7 @@ Well, late for those of us in CST, but for you, we look forward to an internatio
 
 ## Thursday  
 ### Focus on Digitization in TaxonWorks
-This is an introduction to the world of digitization in TaxonWorks. From working with images to Comprehensive Digitization to grid digitizing. (Check out some introductory YouTube videos). We'll focus on management and special highlights such as staged images, the new image task; loan management; creating new collecting events, and of course, getting data in and out of TW.
+This is an introduction to the world of digitization in TaxonWorks. From working with images to Comprehensive Digitization to grid digitizing. (Check out some [introductory YouTube videos](https://www.youtube.com/channel/UCKNr7QYwvVFcRfQAcMEAhLw/videos)). We'll focus on management and special highlights such as staged images, the new image task, loan management, creating new collecting events, and of course, getting data in and out of TW.
 
 This is a great section for those new to TaxonWorks.
 
@@ -131,7 +131,7 @@ Some possible topics of interest include: USB booting with TW, work to make stuf
 
 ### Relevant links
 * [TaxonWorks GitHub repo](https://github.com/SpeciesFileGroup/taxonworks)
-* Google Doc Notes
+* [Google Doc Notes](https://bit.ly/taxonworks2021) aka https://bit.ly/taxonworks2021
 
 [2]: https://gitter.im/SpeciesFileGroup/taxonworks?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge
 [3]: https://badges.gitter.im/SpeciesFileGroup/taxonworks.svg****
