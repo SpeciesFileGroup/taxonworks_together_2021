@@ -104,7 +104,7 @@ Well, late for those of us in CST, but for you, we look forward to an internatio
 
 ## Thursday  
 ### Focus on Digitization in TaxonWorks
-Let’s start with getting data in and getting digitized data out of TaxonWorks. Then we’ll find out more about working with slides and images in TaxonWorks. With these pieces in mind, we’ll step into the world of Comprehensive Digitization. (Please watch pre-meeting videos, watch this space). We'll focus on management highlights such as staged images, the new image task; using the comprehensive task; creating labels in TW, new collecting events, and of course, getting data in and out of TW.
+This is an introduction to the world of digitization in TaxonWorks. From working with images to Comprehensive Digitization to grid digitizing. (Check out some introductory YouTube videos). We'll focus on management and special highlights such as staged images, the new image task; loan management; creating new collecting events, and of course, getting data in and out of TW.
 
 This is a great section for those new to TaxonWorks.
 
