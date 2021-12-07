@@ -44,7 +44,7 @@ _Scheduled events are subject to minor changes_.  All events will have question 
 | 1145 -   1245 | 1745 - 1845 | Building a Community Around Your Taxonomic Needs _A Summary View_     |
 | 1245 -   1300 | 1845 - 1900 | Recap                                                                   |
 | 1300 -   1500 | 1900 - 2100 | Break                                                                   |
-| 1500 -   1545 | 2100 - 2145 | [Spotlight on Nomenclatural Data](https://github.com/SpeciesFileGroup/taxonworks_together_2021#spotlight-on-nomenclatural-data) | Dmitry Dmitriev</br> James Woolley</br>Donald Hobern|
+| 1500 -   1545 | 2100 - 2145 | [Spotlight on Nomenclatural Data](https://github.com/SpeciesFileGroup/taxonworks_together_2021#spotlight-on-nomenclatural-data) | Dmitry Dmitriev</br> James Woolley</br>Donald Hobern [pdf](/slides/Hobern_twt2021.pdf)|
 | 1545 -   1615 | 2145 - 2215 | Break                                                                   |
 | 1615 -   1715 | 2215 - 2315 | [Nomenclature Discussion QA](https://github.com/SpeciesFileGroup/taxonworks_together_2021#nomenclature-discussion-qa)                                            |
 | **[Wednesday](https://github.com/SpeciesFileGroup/taxonworks_together_2021#wednesday)**   |             |                                                                         |
