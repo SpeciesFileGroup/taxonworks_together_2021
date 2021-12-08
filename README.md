@@ -48,9 +48,9 @@ _Scheduled events are subject to minor changes_.  All events will have question 
 | 1545 -   1615 | 2145 - 2215 | Break                                                                   |
 | 1615 -   1715 | 2215 - 2315 | [Nomenclature Discussion QA](https://github.com/SpeciesFileGroup/taxonworks_together_2021#nomenclature-discussion-qa)                                            |
 | **[Wednesday](https://github.com/SpeciesFileGroup/taxonworks_together_2021#wednesday)**   |             |                                                                         |
-| 1000 -   1045 | 1600 - 1645 | [TaxonWorks, Origins, Milestones, and What’s Next](https://github.com/SpeciesFileGroup/taxonworks_together_2021#taxonworks-origins-milestones-and-whats-next)                       | Matt Yoder |
-| 1045 -   1115 | 1645 - 1715 | Break                                                                   |
-| 1115 -   1300 | 1715 - 1900 | [BBQ Time - You Drive the Development of TaxonWorks Software](https://github.com/SpeciesFileGroup/taxonworks_together_2021#bbq-time---you-drive-the-developmment-of-taxonworks-software)            | Deborah Paul</br> Matt Yoder</br> Tommy McElrath</br> You |
+| 1000 -   1100 | 1600 - 1700 | [TaxonWorks, Origins, Milestones, and What’s Next](https://github.com/SpeciesFileGroup/taxonworks_together_2021#taxonworks-origins-milestones-and-whats-next)                       | Matt Yoder |
+| 1100 -   1130 | 1700 - 1730 | Break                                                                   |
+| 1130 -   1300 | 1730 - 1900 | [BBQ Time - You Drive the Development of TaxonWorks Software](https://github.com/SpeciesFileGroup/taxonworks_together_2021#bbq-time---you-drive-the-developmment-of-taxonworks-software)            | Deborah Paul</br> Matt Yoder</br> Tommy McElrath</br> You |
 |               |             | Break                                                                   |
 | 1500 -   1700 | 2100 - 2300 | [Discover Matrices in TaxonWorks](https://github.com/SpeciesFileGroup/taxonworks_together_2021#discover-matrices-in-taxonworks)| Dmitry Dmitriev</br> Sergei Tarasov</br> Kojun Kanda</br>|
 |               |             | Break                                                                   |
