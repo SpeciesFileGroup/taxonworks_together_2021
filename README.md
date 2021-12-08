@@ -52,7 +52,7 @@ _Scheduled events are subject to minor changes_.  All events will have question 
 | 1100 -   1130 | 1700 - 1730 | Break                                                                   |
 | 1130 -   1300 | 1730 - 1900 | [BBQ Time - You Drive the Development of TaxonWorks Software](https://github.com/SpeciesFileGroup/taxonworks_together_2021#bbq-time---you-drive-the-developmment-of-taxonworks-software)            | Deborah Paul</br> Matt Yoder</br> Tommy McElrath</br> You |
 |               |             | Break                                                                   |
-| 1500 -   1700 | 2100 - 2300 | [Discover Matrices in TaxonWorks](https://github.com/SpeciesFileGroup/taxonworks_together_2021#discover-matrices-in-taxonworks)| Dmitry Dmitriev</br> Sergei Tarasov</br> Kojun Kanda</br>|
+| 1500 -   1700 | 2100 - 2300 | [Discover Matrices in TaxonWorks](https://github.com/SpeciesFileGroup/taxonworks_together_2021#discover-matrices-in-taxonworks)| Dmitry Dmitriev</br> Sergei Tarasov [pdf](slides/Tarasov_twt2021.pdf)</br> Kojun Kanda</br>|
 |               |             | Break                                                                   |
 | 1900 -   2100 | 100 - 300   | [TaxonWorks LateNite](https://github.com/SpeciesFileGroup/taxonworks_together_2021#taxonworks-latenite) |Please join us!|                                                  |
 | **[Thursday](https://github.com/SpeciesFileGroup/taxonworks_together_2021#thursday)**    |             |                                                                         |
