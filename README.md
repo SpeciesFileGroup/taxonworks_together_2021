@@ -39,7 +39,7 @@ _Scheduled events are subject to minor changes_.  All events will have question 
 | 1245 -   1300 | 1845 - 1900 | Recap                                                                   |
 | **[Tuesday](https://github.com/SpeciesFileGroup/taxonworks_together_2021#tuesday)**     |             |                                                                         |
 | 1000 -   1015 | 1600 - 1615 | Introduction to Building a Community Around Your Taxonomic Needs        | Species File Group |
-| 1015 -   1115 | 1615 - 1715 | [Building a Community Around Your Taxonomic Needs](https://github.com/SpeciesFileGroup/taxonworks_together_2021#building-a-community-around-your-taxonomic-needs) _Moderated Discussion_ | Beckett Sterner |
+| 1015 -   1115 | 1615 - 1715 | [Building a Community Around Your Taxonomic Needs](https://github.com/SpeciesFileGroup/taxonworks_together_2021#building-a-community-around-your-taxonomic-needs) _Moderated Discussion_ | Beckett Sterner [pdf](slides/Sterner_twt2021_TaxonWorks2021.pdf) |
 | 1115 -   1145 | 1715 - 1745 | Break                                                                   |
 | 1145 -   1245 | 1745 - 1845 | Building a Community Around Your Taxonomic Needs _A Summary View_     |
 | 1245 -   1300 | 1845 - 1900 | Recap                                                                   |
